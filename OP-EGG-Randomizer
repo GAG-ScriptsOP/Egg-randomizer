@@ -1,5 +1,5 @@
 -- Pet Hatch Visualizer / Randomizer (completed & fixed)
--- Author: munkizzz (UI credit preserved)
+-- Author: munukii (UI credit preserved)
 local Players = game:GetService("Players")
 local Workspace = game:GetService("Workspace")
 local TweenService = game:GetService("TweenService")
